@@ -1,0 +1,16 @@
+Setting up a Headless Apache Server on Debian 11:
+
+- Installed Debian 11 on bare metal
+- Set up Apache
+- Set up passwordless ssh using ssh keys
+- Used .htpasswd, .htaccess, and httpd.conf to password protect directories
+- Set up a domain with Google Domains
+- Used certbot to install an https certificate with Let's Encrypt
+- Used sftp and Cyberduck to transfer files remotely
+- Set up 2 virtual hosts on a single machine
+- Set up a Plex media server
+
+
+To Do:
+
+- 
