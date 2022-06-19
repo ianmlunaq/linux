@@ -1,0 +1,9 @@
+﻿1. Have sufficient storage space to install
+2. Mount Guest Additions CD
+3. $ sudo apt update
+4. $ sudo apt upgrade
+5. # apt install linux-headers-$(uname -r)
+6. $ sudo apt update
+7. $ sudo apt install build-essential gcc make perl dkms
+8. $ sudo sh ./VBoxLinuxAdditions.run --nox11
+9. reboot
