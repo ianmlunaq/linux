@@ -9,7 +9,8 @@ Setting up a Headless Apache Server on Debian 11:
 - Used sftp and Cyberduck to transfer files remotely
 - Set up 2 virtual hosts on a single machine
 - Set up a Plex media server
-
+- Set up DDNS using Google domains and ddclient
+- Set up Xpra
 
 To Do:
 
