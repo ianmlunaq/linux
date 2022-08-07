@@ -1,4 +1,4 @@
 ffmpeg -i infile.mp4 -i infile.srt -c copy -c:s mov_text outfile.mp4
 
 
-ffmpeg -i The.Truman.Show.1998.1080p.BluRay.x265-RARBG.mp4 -i Subs/2_English.srt -map 0:v -map 0:a -c copy -map 1 -c:s:0 mov_text -metadata:s:s:0 language=eng output.mp4
+ffmpeg -i The.Truman.Show.1998.1080p.BluRay.x265.mp4 -i Subs/2_English.srt -map 0:v -map 0:a -c copy -map 1 -c:s:0 mov_text -metadata:s:s:0 language=eng output.mp4
